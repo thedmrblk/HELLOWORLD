@@ -1,2 +1,4 @@
 # HELLOWORLD
-yeni alışım başlangıcı.
+
+merhaba insanlar.
+havva soguk :D
